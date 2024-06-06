@@ -13,3 +13,15 @@ body {
   text-align: left;
   text-indent: 20px;
 }
+
+.recipes-list {
+  background: rgb(219, 200, 200);
+  display: inline-block;
+  color: black;
+  padding: 5px;
+  border-radius: 10px;
+}
+
+.recipes-list li {
+  padding: 5px;
+}
